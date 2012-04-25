@@ -1,7 +1,8 @@
-WhatC-CouldDoThat-Sample
-========================
+&quot;What?!? C# Could Do That?!?&quot; Sample code
+====================================================
 
 This is the sample code from my &quot;What?!? C# Could Do That?!?&quot; session.
+
 It contains four projects:
 - LectureDemos - sample uses of C#'s dynamic keyword.
 - RoslynFun - Roslyn project demos.
